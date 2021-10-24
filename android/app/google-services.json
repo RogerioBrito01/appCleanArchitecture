@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506006768953",
+    "project_id": "bdgalerytop",
+    "storage_bucket": "bdgalerytop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506006768953:android:78f19935fd69e027cc6ce8",
+        "android_client_info": {
+          "package_name": "com.galarytop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506006768953-8klb70lqc8s2camom1qjvtci5upap6bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR-FPOJiLgex08rt0vRogLJ1RxXyuAl60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506006768953-8klb70lqc8s2camom1qjvtci5upap6bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
